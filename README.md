@@ -1,4 +1,5 @@
-## Assessment.sol
+# ADD OR REMOVE STRING FROM THE ARRAY
+## Assesment.sol
 This Solidity program is a simple smart contract that demonstrates basic array manipulation. The contract allows users to add and remove strings from an array. The purpose of this program is to serve as a starting point for those who are new to Solidity and want to get a feel for how it works.
 
 ## Description
@@ -50,12 +51,6 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by calling the getArray, addString, and removeString functions.
 
-Authors
-M.Prithvin
-[prithvin04@gmail.com]
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## index.js
 This JavaScript program is a simple React application that interacts with a Solidity smart contract to manage an array of strings. The purpose of this program is to serve as a starting point for those who are new to using React with Ethereum smart contracts.
